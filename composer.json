@@ -1,0 +1,15 @@
+{
+    "name": "david/da288a_a1",
+    "description": "Assignment 1 for da288a",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.24",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "davidhurtig",
+            "email": "davidhurtig95@hotmail.com"
+        }
+    ]
+}
